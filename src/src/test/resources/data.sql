@@ -1,0 +1,1 @@
+insert into item values(1, 'ItemForTesting', 10, 20);
